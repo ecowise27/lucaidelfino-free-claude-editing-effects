@@ -1068,7 +1068,7 @@ class CarouselSpin(Effect):
                 self._cum = sm
             i = min(len(self._cum) - 1, max(0, int(round(t * FPS))))
             base = self._cum[min(len(self._cum) - 1, int(round(self.at * FPS)))]
-            spin = (self._cum[i] - base) * self._gain * float(self.cfg.get("richtung", -1))
+            spin = (self._cum[i] - base) * self._gain * float(self.cfg.get("richtung", 1))
         else:
             sw = float(self.cfg.get("swipe", 0.7))
             r2 = max(0.0, rel - 0.7)
