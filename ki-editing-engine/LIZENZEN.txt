@@ -1,0 +1,3 @@
+Schriften: DM Sans, Instrument Serif, Courier Prime, Bodoni Moda, Permanent Marker – SIL Open Font License / Apache 2.0 (Google Fonts).
+Modelle: MediaPipe Selfie Segmenter & Face Landmarker – Apache 2.0 (Google).
+Logos: Simple Icons (CC0). Markenlogos gehören den jeweiligen Inhabern und dienen nur zur Darstellung.

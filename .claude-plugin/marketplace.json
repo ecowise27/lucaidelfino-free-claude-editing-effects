@@ -1,0 +1,13 @@
+{
+  "name": "ecowise27",
+  "owner": {
+    "name": "Luca Delfino"
+  },
+  "plugins": [
+    {
+      "name": "lucaidelfino-free-claude-editing-effects",
+      "source": "./",
+      "description": "16 KI-Video-Effekte als Slash-Befehle: Video anhängen, /befehl tippen, Claude schneidet dein Reel."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "lucaidelfino-free-claude-editing-effects",
+  "version": "1.0.0",
+  "description": "16 KI-Video-Effekte als Slash-Befehle: Video anhängen, /befehl tippen, Claude schneidet dein Reel.",
+  "author": {
+    "name": "Luca Delfino",
+    "url": "https://www.instagram.com/lucaidelfino/"
+  },
+  "keywords": [
+    "video",
+    "reels",
+    "editing",
+    "effekte"
+  ]
+}
